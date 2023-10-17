@@ -7,7 +7,7 @@
 
 🤔 I'm looking for help with React
 
-📫 How to reach me, mi e-mail is: alvarezalanfranco@gmail.com
+📫 How to reach me, my e-mail is: alvarezalanfranco@gmail.com
 
 📄Also you can download my resume: [Here!](https://drive.google.com/file/d/1TO6UBT9DeoZvWz7b1pFDi8YvkrmwY0tb/view?usp=sharing)
 
