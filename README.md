@@ -1,9 +1,7 @@
 ## 🚀 About Me
 🧉I'm Alan, an argentinian frontend developer.
 
-👩‍💻 I'm currently working on Galeno as IT Technical Support
-
-🧠 I'm currently learning React and Java
+🧠 I'm currently learning React
 
 🤔 I'm looking for help with React
 
