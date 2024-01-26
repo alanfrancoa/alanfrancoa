@@ -3,7 +3,7 @@
 
 🧠 I'm currently learning React
 
-🤔 I'm looking for help with React
+🤔 I'm looking for help with Backend
 
 📫 How to reach me, my e-mail is: alvarezalanfranco@gmail.com
 
