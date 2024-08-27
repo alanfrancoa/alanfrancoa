@@ -1,9 +1,9 @@
 ## 🚀 About Me
 🧉I'm Alan, an argentinian frontend developer.
 
-🧠 I'm currently learning React, C# and Visual Basic
+🧠 I'm currently learning React, C# and Java
 
-🤔 I'm looking for help with Backend
+🤔 I'm looking for help with Backend (Node.Js, Express)
 
 📫 How to reach me, my e-mail is: alvarezalanfranco@gmail.com
 
