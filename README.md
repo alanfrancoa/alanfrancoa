@@ -7,7 +7,7 @@
 
 📫 How to reach me, my e-mail is: alvarezalanfranco@gmail.com
 
-📄You can also download my resume: [Here!](https://drive.google.com/file/d/1TO6UBT9DeoZvWz7b1pFDi8YvkrmwY0tb/view?usp=sharing)
+📄You can download my resume: [Here!](https://drive.google.com/file/d/1TO6UBT9DeoZvWz7b1pFDi8YvkrmwY0tb/view?usp=sharing)
 
 😄 Pronouns: he/him
 
